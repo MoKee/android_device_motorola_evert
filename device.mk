@@ -62,9 +62,9 @@ PRODUCT_BOOT_JARS += qcom.fmradio
 PRODUCT_PACKAGES += \
     init.evert.rc
 
-# Lineage hardware
+# MoKee hardware
 PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.sdm660
+    vendor.mokee.touch@1.0-service.sdm660
 
 # NFC
 PRODUCT_PACKAGES += \
